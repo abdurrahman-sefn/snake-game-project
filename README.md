@@ -1,14 +1,14 @@
 # Snake Game
 
 ## Intro
-I tried to build the old snake game with cpp as a console app as an ITI cs50 graduation project
+I tried to build the old snake game with cpp as a console app as an **ITI cs50 graduation project**
 
 ## Limitations
 The game is blocked until the user enters a key which is a big limitation and solving it will go beyond the course contents
 
 
 ## How To Play
-<img src="images/snake-game-board.png" alt = "snake game board" width="50%" style="display: block; margin: 0 auto;"/>
+<img src="images/snake-game-board.png" alt = "snake game board" width="50%" style="display: block; margin: 0 25%;"/>
 
 
 ### Game Symbols
